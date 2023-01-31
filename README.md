@@ -9,9 +9,9 @@ Authors: Simon A. A. Kohl, Bernardino Romera-Paredes, Clemens Meyer, Jeffrey De
 [[paper](https://arxiv.org/abs/1806.05034)]<br>
 The architecture of Probabilistic U-Net:<br>
 Training process:<br>
-![Training](https://github.com/rizalmaulanaa/Probabilistic-MCTrans/blob/master/model-img/Models-Probabilistic-U-Net-training.png?raw=true)<br>
+![Training](https://github.com/rizalmaulanaa/Probabilistic-MCTrans/blob/main/model-img/Models-Probabilistic-U-Net-training.png)<br>
 Sampling process:<br>
-![Sampling](https://github.com/rizalmaulanaa/AProbabilistic-MCTrans/blob/master/model-img/Models-Probabilistic-U-sNet-sampling.png?raw=true)<br>
+![Sampling](https://github.com/rizalmaulanaa/AProbabilistic-MCTrans/blob/main/model-img/Models-Probabilistic-U-sNet-sampling.png)<br>
 
 ## Multi-Compound Transformer (MCTrans)
 Title: Multi-Compound Transformer for Accurate Biomedical Image Segmentation<br>
@@ -19,11 +19,11 @@ Authors: Yuanfeng Ji, Ruimao Zhang, Huijie Wang, Zhen Li, Lingyun Wu, Shaoting 
 [[paper](https://arxiv.org/abs/2106.14385)]<br>
 The architecture of MCTranst:<br>
 Training process:<br>
-![Training & Sampling](https://github.com/rizalmaulanaa/Probabilistic-MCTrans/blob/master/model-img/Models-MCTrans.png?raw=true)<br>
+![Training & Sampling](https://github.com/rizalmaulanaa/Probabilistic-MCTrans/blob/main/model-img/Models-MCTrans.png)<br>
 
 ## Probabilistic Multi-Compound Transformer (Probabilistic MCTrans)
 The architecture of Probabilistic MCTrans:<br>
 Training process:<br>
-![Training](https://github.com/rizalmaulanaa/Probabilistic-MCTrans/blob/master/model-img/Models-prob-MCTrans-training.png?raw=true)<br>
+![Training](https://github.com/rizalmaulanaa/Probabilistic-MCTrans/blob/main/model-img/Models-prob-MCTrans-training.png)<br>
 Sampling process:<br>
-![Sampling](https://github.com/rizalmaulanaa/Probabilistic-MCTrans/blob/master/model-img/Models-prob-MCTrans-sampling.png?raw=true)<br>
+![Sampling](https://github.com/rizalmaulanaa/Probabilistic-MCTrans/blob/main/model-img/Models-prob-MCTrans-sampling.png)<br>
