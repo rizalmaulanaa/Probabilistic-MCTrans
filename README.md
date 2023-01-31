@@ -11,7 +11,7 @@ The architecture of Probabilistic U-Net:<br>
 Training process:<br>
 ![Training](https://github.com/rizalmaulanaa/Probabilistic-MCTrans/blob/main/model-img/Models-Probabilistic-U-Net-training.png)<br>
 Sampling process:<br>
-![Sampling](https://github.com/rizalmaulanaa/AProbabilistic-MCTrans/blob/main/model-img/Models-Probabilistic-U-sNet-sampling.png)<br>
+![Sampling](https://github.com/rizalmaulanaa/Probabilistic-MCTrans/blob/main/model-img/Models-Probabilistic-U-Net-sampling.png)<br>
 
 ## Multi-Compound Transformer (MCTrans)
 Title: Multi-Compound Transformer for Accurate Biomedical Image Segmentation<br>
